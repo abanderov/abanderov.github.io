@@ -453,5 +453,46 @@ ne: &DEFAULT_NE
   loading_label              : "लोड हुँदैछ ..."
 ne-NP:
   <<: *DEFAULT_NE
-# Another locale
-# --------------
+  
+# Bulgarian
+# -----------------
+en: &DEFAULT_BG
+  page                       : "Страница"
+  pagination_previous        : "Предишна"
+  pagination_next            : "Следваща"
+  breadcrumb_home_label      : "Начална страница"
+  breadcrumb_separator       : "/"
+  menu_label                 : "Меню"
+  toc_label                  : "На тази страница"
+  ext_link_label             : "Директна връзка"
+  less_than                  : "по-малко от"
+  minute_read                : "минута/и за четене"
+  share_on_label             : "Сподели"
+  meta_label                 :
+  tags_label                 : "Тагове:"
+  categories_label           : "Категории:"
+  date_label                 : "Обновено:"
+  comments_label             : "Оставете коментар"
+  comments_title             : "Коментари"
+  more_label                 : "Научете повече"
+  related_label              : "Също така може да харесате"
+  follow_label               : "Последвайте:"
+  feed_label                 : "Feed"
+  powered_by                 : "Задвижено от"
+  website_label              : "Уебсайт"
+  email_label                : "Имейл"
+  recent_posts               : "Последни публикации"
+  undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
+  comment_form_info          : "Вашият имейл няма да бъде публикуван. Задължителните полета са отбелязани"
+  comment_form_comment_label : "Коментар"
+  comment_form_md_info       : "Markdown is supported."
+  comment_form_name_label    : "Име"
+  comment_form_email_label   : "Имейл адрес"
+  comment_form_website_label : "Уебсайт (незадължително)"
+  comment_btn_submit         : "Изпратете коментар"
+  comment_btn_submitted      : "Изпратен"
+  comment_success_msg        : "Благодаря за коментара Ви! Ще се покаже на сайта, след като бъде одобрен."
+  comment_error_msg          : "Има проблем с изпращането. Моля, уверете се, че всички полета са попълнени и пробвайте отново."
+  loading_label              : "Зарежда се..."
+bg-BG:
+  <<: *DEFAULT_BG
