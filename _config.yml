@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Just Another Roadside Picninc"
 title_separator          : "|"
-name                     : "Александър Бандеров"
+name                     : "Alexander Banderov"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
