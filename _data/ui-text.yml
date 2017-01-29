@@ -456,7 +456,7 @@ ne-NP:
   
 # Bulgarian
 # -----------------
-en: &DEFAULT_BG
+bg: &DEFAULT_BG
   page                       : "Страница"
   pagination_previous        : "Предишна"
   pagination_next            : "Следваща"
