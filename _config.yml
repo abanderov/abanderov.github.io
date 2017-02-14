@@ -233,8 +233,8 @@ compress_html:
 
 # Defaults
 defaults:
-   _posts
-    scope:
+   #_posts
+ - scope:
       path: ""
       type: posts
     values:
@@ -244,8 +244,8 @@ defaults:
       comments: # true
       share: true
       related: true
-  _pages
-    scope:
+  #_pages
+  - scope:
       path: ""
       type: pages
     values:
