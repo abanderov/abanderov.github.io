@@ -6,6 +6,8 @@ main:
     url: /posts/
   - title: "За мен"
     url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
