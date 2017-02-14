@@ -1,5 +1,5 @@
 ---
 title: Публикации
 layout: _posts
-permalink: /posts/
+permalink: posts.md
 ---

@@ -1,5 +1,5 @@
 ---
 title: За мен
 layout: _pages
-permalink: /about/
+permalink: about.md
 ---
